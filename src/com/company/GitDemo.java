@@ -5,7 +5,8 @@ import org.junit.Test;
 public class GitDemo {
 
     @Test
-    public void test()
+    public void test(){
+        System.out.println("running test");
     }
 
 }
